@@ -28,7 +28,7 @@ menu:
       weight: 5
 params:
   abbrDateFmt: "Jan 2"
-  author: "Blog Author"
+  author: "Lian"
   brandIconFile: "images/brandIcon.svg"
   dateFmt: "2006-01-02"
   ##
