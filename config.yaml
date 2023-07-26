@@ -3,7 +3,7 @@ baseURL: https://smigle-hugo-theme.netlify.app/ # Replace with your domain
 languageCode: en-us
 theme: smigle
   #themesDir: ../.. # Only needed for running the example site
-title: Blog Title
+title: Lian 
 menu:
   main:
     - identifier: home
@@ -41,13 +41,7 @@ params:
   #readingSpeedMax: 175 # Use to set custom reading speed range
   social:
     - name: GitHub
-      url: https://github.com/ian-s-mcb
-    - name: GitLab
-      url: https://gitlab.com/ian-s-mcb
-    - name: Quizlet
-      url: https://quizlet.com/ian-s-mcb
-    - name: Reddit
-      url: https://www.reddit.com/user/ian-s-mcb
-    - name: StackOverflow
-      url: https://stackoverflow.com/users/3417846/ian-s-mcb
-  subtitle: "Description about Blog Author"
+      url: https://github.com/Zumh 
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/zumhller
+  subtitle: "Full-Stack Developer, driven by challenges."
