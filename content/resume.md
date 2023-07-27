@@ -8,7 +8,7 @@ layout: default
 
 zumhliansang@live.ca | www.github.com/Zumh | www.linkedin.com/in/zumhller
 
-(519) - 208-0359 | Kitchener, Ontario, Canada
+Kitchener, Ontario, Canada
 
 ---
 
