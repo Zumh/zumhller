@@ -1,4 +1,0 @@
----
-title: Lian
-layout: portfolio
----
