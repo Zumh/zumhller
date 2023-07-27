@@ -30,6 +30,10 @@ menu:
       name: Tags
       url: /tags/
       weight: 6
+    - identifier: cv
+      name: Cv
+      url: /cv/
+      weight: 7
 params:
   abbrDateFmt: "Jan 2"
   author: "Lian"
