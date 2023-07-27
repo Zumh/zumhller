@@ -1,0 +1,29 @@
+name: "Zumhliansang Lung Ler"
+email: "zumhliansang@live.ca"
+github: "https://github.com/Zumh"
+projects:
+  - name: "full stack"  
+    description: "build website"
+
+  - name: "cyber security"  
+    description: "build automated cyber security tools"  
+
+  - name: "System Programming"  
+    description: "Mini OS"   
+
+experience:
+  - position: "Software Engineer"
+    company: "Tech Solutions Inc."
+    duration: "2018 - Present"
+    description: "Developed web applications and implemented new features."
+
+  - position: "Intern"
+    company: "Software Co."
+    duration: "2017"
+    description: "Assisted in testing and bug fixing."
+
+education:
+  - degree: "Ontario Secondary School Diploma"
+    institution: "Eastwood Collegiate Institute"
+    year: "2013"
+
