@@ -63,7 +63,7 @@ Passionate Full-Stack Developer excelling in impactful projects, skilled in dive
 
 ## Skills
 
-- Programming Languages: JavaScript, Python, Java
+- Programming Languages: Python, C 
 - Web Technologies: HTML, CSS, React.js
 - Version Control: Git
 - Problem Solving
