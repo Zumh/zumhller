@@ -13,7 +13,7 @@ Kitchener, Ontario, Canada
 
 ## Summary
 
-Passionate Full-Stack Developer excelling in impactful projects, skilled in diverse programming languages, with a focus on backend development. Thriving in the dynamic information age, constantly seeking new challenges for growth.
+Passionate Full-Stack Developer excelling in impactful projects, skilled in diverse programming languages, with a focus on backend development. Thriving in the dynamic information age. Committed to delivering high-quality software applications that positively impact end-users and drive organizational success.
 
 ---
 
