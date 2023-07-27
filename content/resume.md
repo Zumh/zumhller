@@ -1,19 +1,22 @@
 ---
-title: "My Resume"
 date: 2023-07-27
 layout: default
 ---
 
 
-# John Doe
+# Zumhliansang Lung Ler
 
-📧 john.doe@email.com | 📞 (123) 456-7890 | 🌐 www.johndoe.com | 📍 City, Country
+zumhliansang@live.ca | www.github.com/Zumh | www.linkedin.com/in/zumhller
+
+(519) - 208-0359 | Kitchener, Ontario, Canada
 
 ---
 
 ## Summary
 
-Highly motivated and skilled professional with a strong background in software development. Passionate about creating elegant solutions and continuous learning.
+Passionate Full-Stack Developer excelling in impactful projects, skilled in diverse programming languages, with a focus on backend development. Thriving in the dynamic information age, constantly seeking new challenges for growth.
+
+---
 
 ## Experience
 
@@ -28,17 +31,7 @@ Highly motivated and skilled professional with a strong background in software d
 - Assisted in the design and implementation of new software features.
 - Resolved bugs and issues, increasing the overall stability of the software.
 
-## Education
-
-### Bachelor of Science in Computer Science | University XYZ | Graduated in 2019
-
-## Skills
-
-- Programming Languages: JavaScript, Python, Java
-- Web Technologies: HTML, CSS, React.js
-- Version Control: Git
-- Problem Solving
-- Teamwork
+---
 
 ## Projects
 
@@ -51,3 +44,27 @@ Highly motivated and skilled professional with a strong background in software d
 
 - Description of the project and your role.
 - Technologies used: List them here.
+
+---
+
+## Skills
+
+- Programming Languages: JavaScript, Python, Java
+- Web Technologies: HTML, CSS, React.js
+- Version Control: Git
+- Problem Solving
+- Teamwork
+
+---
+
+## Certificates
+
+---
+
+## Education
+
+#### Ontario Secondary School Diploma (OSSD)  | Eastwood Collegiate Institute | Graduated in 2013
+
+
+
+
