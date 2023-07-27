@@ -47,6 +47,20 @@ Passionate Full-Stack Developer excelling in impactful projects, skilled in dive
 
 ---
 
+## Certificates
+### Full Stack Open 2023
+- Description of the certificate
+- the certificate link
+
+### Data analysis 2023
+- Description of the certificate
+- the certificate link
+
+### Cyber security 2023 
+- Description of the certificate
+- the certificate link
+---
+
 ## Skills
 
 - Programming Languages: JavaScript, Python, Java
@@ -54,10 +68,6 @@ Passionate Full-Stack Developer excelling in impactful projects, skilled in dive
 - Version Control: Git
 - Problem Solving
 - Teamwork
-
----
-
-## Certificates
 
 ---
 
