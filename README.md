@@ -16,3 +16,5 @@ This is for my resume, blogs and portfolio
 - hugo server -D
 - open http://localhost:1313/content/my-new-post.md
 
+## remove draft
+- draft: false

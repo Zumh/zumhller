@@ -1,7 +1,7 @@
 ---
 title: "C_static_analysis"
 date: 2024-03-23T14:38:49-04:00
-draft: true
+draft: false
 ---
 
 ## Static Assertions Explained Using the Feynman Technique
