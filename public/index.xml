@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lian</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Lian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Mar 2024 14:38:49 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C_static_analysis</title>
+      <link>http://localhost:1313/posts/c_static_analysis/</link>
+      <pubDate>Sat, 23 Mar 2024 14:38:49 -0400</pubDate>
+      <guid>http://localhost:1313/posts/c_static_analysis/</guid>
+      <description>Static Assertions Explained Using the Feynman Technique What are static assertions?&#xA;Static assertions are like early warning alarms for programmers. They&amp;rsquo;re statements we include in our code to check if certain things are true or not while the program is being put together, not when it&amp;rsquo;s running.&#xA;How do they work?&#xA;Imagine you&amp;rsquo;re building a puzzle. Before you even start putting pieces together, you want to make sure each piece fits where it&amp;rsquo;s supposed to.</description>
+    </item>
+    <item>
+      <title>Jwt</title>
+      <link>http://localhost:1313/posts/jwt/</link>
+      <pubDate>Sun, 30 Jul 2023 12:29:20 -0400</pubDate>
+      <guid>http://localhost:1313/posts/jwt/</guid>
+      <description>Alright, imagine you have a super cool secret club, and you want to make sure only your trusted friends can enter and enjoy all the fun activities. So, you decide to create a special stamp that only your friends have, and this stamp allows them to get into the club without revealing their names.&#xA;This special stamp is like a JWT (JSON Web Token). It&amp;rsquo;s a tiny piece of paper with three parts: a header, a payload, and a signature.</description>
+    </item>
+    <item>
+      <title>Hardprojects</title>
+      <link>http://localhost:1313/posts/hardprojects/</link>
+      <pubDate>Fri, 28 Jul 2023 14:07:04 -0400</pubDate>
+      <guid>http://localhost:1313/posts/hardprojects/</guid>
+      <description>Finishing project someone assign you. From stake holder, clients, or assignments. Unclear requirement, trying to see their perspective. Takes time to understand the whole requirement. Hard to disects and making things smaller. Maybe we start with smaller part of the project. We have to understand first then implement. That takes time. Finishing a project you started You have a clear understanding of what you get it done. There is a clear path and you know what the end product.</description>
+    </item>
+    <item>
+      <title>Fullstack 0</title>
+      <link>http://localhost:1313/posts/2023-07-27-fullstack/</link>
+      <pubDate>Thu, 27 Jul 2023 12:00:28 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2023-07-27-fullstack/</guid>
+      <description>hello wrold</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>Project 1 description Project 2 description </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>Zumhliansang Lung Ler zumhliansang@live.ca | www.github.com/Zumh | www.linkedin.com/in/zumhller&#xA;Kitchener, Ontario, Canada&#xA;Summary Passionate Full-Stack Developer excelling in impactful projects, skilled in diverse programming languages, with a focus on backend development. Thriving in the dynamic information age. Committed to delivering high-quality software applications that positively impact end-users and drive organizational success.&#xA;Experience Software Engineer | XYZ Tech | Jan 2021 - Present Developed and maintained web applications using HTML, CSS, and JavaScript.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Prefer contact: zumhliansang@live.ca&#xA;Hi! I&amp;rsquo;m Lian, in my early 30s. A resilient self-taught software engineer, redefining possibilities with unwavering expertise. Versatile, determined, and impactful in a dynamic tech landscape.&#xA;Purpose This site is to show case and posts my interests in techs, such as:&#xA;to document my projects to give me a platform to comment on the topics I encounter as an engineer. Hobbies Hiking I like to hike and play explore natures.</description>
+    </item>
+  </channel>
+</rss>

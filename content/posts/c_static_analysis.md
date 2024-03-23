@@ -1,5 +1,10 @@
+---
+title: "C_static_analysis"
+date: 2024-03-23T14:38:49-04:00
+draft: true
+---
 
-**Static Assertions Explained Using the Feynman Technique**
+## Static Assertions Explained Using the Feynman Technique
 
 1. **What are static assertions?**
    
@@ -34,3 +39,4 @@
    Static assertions are like quality control for programmers. By understanding how they work and why they're important, we can write better, more reliable code. Just like a good carpenter measures twice and cuts once, a good programmer uses static assertions to catch mistakes early and build better software.
 
 In summary, static assertions are essential tools for programmers. They help us ensure that our code fits together correctly, catches mistakes before they cause problems, and ultimately leads to better software.
+
