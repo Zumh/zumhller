@@ -1,3 +1,4 @@
+- https://gohugo.io/getting-started/quick-start/
 # zumhller
 This is for my resume, blogs and portfolio
 - work in progress for projects
